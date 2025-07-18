@@ -1,5 +1,3 @@
-# Privacy Policy
-
 **Effective Date:** July 18, 2025
 
 This Custom GPT assistant helps a user (typically an entrepreneur) securely access, read, and summarize their Google Drive files using authenticated access. It is designed to operate in a professional, privacy-respecting manner and does not store or share personal information.
